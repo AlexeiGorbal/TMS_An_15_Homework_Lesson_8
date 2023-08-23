@@ -1,4 +1,4 @@
-package purt1.Exercise1.model;
+package com.teachmeskills.lesson8.purt1.Exercise1.model;
 
 public class Triangle extends Figure {
     private double firstSide;

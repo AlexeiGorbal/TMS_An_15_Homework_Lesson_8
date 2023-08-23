@@ -1,6 +1,6 @@
-package purt2;
+package com.teachmeskills.lesson8.purt2;
 
-import purt2.model.Utils;
+import com.teachmeskills.lesson8.purt2.model.Utils;
 
 import java.util.Arrays;
 

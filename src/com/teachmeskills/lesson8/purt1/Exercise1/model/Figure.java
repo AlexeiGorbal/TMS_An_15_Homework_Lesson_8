@@ -1,6 +1,6 @@
-package purt1.Exercise3.model;
+package com.teachmeskills.lesson8.purt1.Exercise1.model;
 
-public sealed abstract class Figure permits Circle, Cube, Rectangle, Triangle {
+public abstract class Figure {
     private double sumOfPerimeters;
 
     public abstract void areaFigure();
@@ -16,3 +16,5 @@ public sealed abstract class Figure permits Circle, Cube, Rectangle, Triangle {
         System.out.println("Sum of perimeter: " + sumOfPerimeters);
     }
 }
+
+

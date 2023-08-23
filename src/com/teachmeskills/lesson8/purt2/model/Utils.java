@@ -1,4 +1,4 @@
-package purt2.model;
+package com.teachmeskills.lesson8.purt2.model;
 
 public class Utils {
     public static int[] creatingAOneDimensionalArrayFromArrayOne(int[][] arrayOne) {

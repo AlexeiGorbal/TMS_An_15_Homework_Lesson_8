@@ -1,4 +1,4 @@
-package purt1.Exercise2.model;
+package com.teachmeskills.lesson8.purt1.Exercise2.model;
 
 public class AccountantImpl implements IJobTitle {
     @Override

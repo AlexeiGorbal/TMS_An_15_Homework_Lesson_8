@@ -1,9 +1,9 @@
-package purt1.Exercise1;
+package com.teachmeskills.lesson8.purt1.Exercise1;
 
-import purt1.Exercise1.model.Circle;
-import purt1.Exercise1.model.Figure;
-import purt1.Exercise1.model.Rectangle;
-import purt1.Exercise1.model.Triangle;
+import com.teachmeskills.lesson8.purt1.Exercise1.model.Figure;
+import com.teachmeskills.lesson8.purt1.Exercise1.model.Circle;
+import com.teachmeskills.lesson8.purt1.Exercise1.model.Rectangle;
+import com.teachmeskills.lesson8.purt1.Exercise1.model.Triangle;
 
 /**
  * Написать иерархию классов «Фигуры».
