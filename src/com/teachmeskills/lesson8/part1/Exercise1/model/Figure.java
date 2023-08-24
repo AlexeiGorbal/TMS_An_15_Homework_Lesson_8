@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson8.purt1.Exercise1.model;
+package com.teachmeskills.lesson8.part1.Exercise1.model;
 
 public abstract class Figure {
     private double sumOfPerimeters;

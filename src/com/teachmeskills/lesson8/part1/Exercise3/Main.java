@@ -1,6 +1,6 @@
-package com.teachmeskills.lesson8.purt1.Exercise3;
+package com.teachmeskills.lesson8.part1.Exercise3;
 
-import com.teachmeskills.lesson8.purt1.Exercise3.model.*;
+import com.teachmeskills.lesson8.part1.Exercise3.model.*;
 
 /**
  * Used the Sealed modifier for the "Shape" class.

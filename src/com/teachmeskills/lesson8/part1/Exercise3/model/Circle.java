@@ -1,6 +1,6 @@
-package com.teachmeskills.lesson8.purt1.Exercise1.model;
+package com.teachmeskills.lesson8.part1.Exercise3.model;
 
-public class Circle extends Figure {
+public non-sealed class Circle extends Figure {
     private double radius;
 
     public Circle(double radius) {
@@ -19,3 +19,4 @@ public class Circle extends Figure {
 
     }
 }
+

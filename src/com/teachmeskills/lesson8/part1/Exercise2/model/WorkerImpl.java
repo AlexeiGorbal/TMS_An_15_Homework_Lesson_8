@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson8.purt1.Exercise2.model;
+package com.teachmeskills.lesson8.part1.Exercise2.model;
 
 public class WorkerImpl implements IJobTitle {
     @Override

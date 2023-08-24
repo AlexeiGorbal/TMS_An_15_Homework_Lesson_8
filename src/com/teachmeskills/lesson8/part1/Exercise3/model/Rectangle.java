@@ -1,6 +1,6 @@
-package com.teachmeskills.lesson8.purt1.Exercise1.model;
+package com.teachmeskills.lesson8.part1.Exercise3.model;
 
-public class Rectangle extends Figure {
+public non-sealed class Rectangle extends Figure {
     private double firstSide;
     private double secondSide;
 
